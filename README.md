@@ -17,35 +17,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+UTILIZAÇÃO DA IA - COPILOT PARA SOLUÇÃO DE PROGRAMAÇÃO EM VBA (VISUAL BASIC FOR APPLICATIONS) INTEGRADO AO MICROSOFT EXCEL
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ 
 
-## 📒 Descrição
-Breve descrição do seu projeto
+📒 Descrição
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Este artigo mostra uma aplicação prática da IA Generativa COPILOT na resolução de um problema real utilizando o VBA vinculado ao Microsoft Excel.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ 
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+🤖 Tecnologias Utilizadas
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+IA Generativa COPILOT para roteirização;
+Ferramenta Microsoft Excel e VBA para aplicação prática;
+Ferramenta Microsoft Powerpoint para edição gráfica de imagem;
+Ferramenta Microsoft Word para edição do artigo.
+ 
 
-### Exemplos e Insigths
+🧐 Processo de Criação
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Utilizei o "COPILOT" para pesquisar os conceitos de IA, VBA (Visual Basic for Applications) e da abordagem Low Code. Também utilizei o COPILOT para executar a resolução prática do problema abordado no artigo, implementado o código de programação por ele disponibilizado no VBA – Microsoft Excel. Por fim, utilizei Microsoft Word e Microsoft Powerpoint para editar e formatar o meu artigo.
 
-## Links Interessantes
+ 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+🚀 Resultados
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O artigo apresenta de maneira lógica e objetiva os conteúdos sobre os temas propostos demonstrando que a IA Generativa COPILOT pode ser uma ferramenta muito útil para usuários que não tem conhecimento em programação, possibilitando assim que mais pessoas sejam apta a desenvolver seus próprios aplicativos.
+
+ 
+
+💭 Reflexão
+
+Criar este artigo foi excelente para demonstrar de maneira prática o potencial da IA em auxiliar na resolução de problemas, automatização de rotinas e ganho de produtividade, incentivando desta maneira a sua aplicação no dia a dia.
